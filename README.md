@@ -12,7 +12,7 @@ This dashboard focuses on customer engagement, voting behavior, and service avai
 * Shows distribution of ratings
 
 📷 Screenshot:
-![Reviews](Task1_Restaurant_Reviews/l3_task1.png)
+![Reviews](Task1_Restaurant_Reviews/l3-task1.png)
 
 ---
 
@@ -23,7 +23,7 @@ This dashboard focuses on customer engagement, voting behavior, and service avai
 * Analyzes votes across price ranges
 
 📷 Screenshot:
-![Votes](Task2_Votes_Analysis/l3_task2.png)
+![Votes](Task2_Votes_Analysis/l3-task2.png)
 
 ---
 
@@ -34,7 +34,7 @@ This dashboard focuses on customer engagement, voting behavior, and service avai
 * Uses percentage-based comparison for better insights
 
 📷 Screenshot:
-![Services](Task3_Price_Range/l3_task3.png)
+![Services](Task3_Price_Range/l3-task3.png)
 
 ---
 
